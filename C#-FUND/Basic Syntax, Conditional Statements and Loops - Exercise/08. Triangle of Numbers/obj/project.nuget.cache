@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QE4eONr7iTTs67TxyJUOWglsDu5NJ9r7uKYZLEPKKHoV9y0FNUOqCBpOETIkjPs7tp5TlwLT4tHoIy5+wQwtlA==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

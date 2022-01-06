@@ -1,0 +1,9 @@
+E:\PB-C#\SCHOOL\whileHomework\demo\bin\Debug\demo.exe.config
+E:\PB-C#\SCHOOL\whileHomework\demo\bin\Debug\demo.exe
+E:\PB-C#\SCHOOL\whileHomework\demo\bin\Debug\demo.pdb
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.Form1.resources
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.Properties.Resources.resources
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.exe
+E:\PB-C#\SCHOOL\whileHomework\demo\obj\Debug\demo.pdb

@@ -1,0 +1,13 @@
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csprojAssemblyReference.cache
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache

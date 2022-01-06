@@ -1,0 +1,11 @@
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.exe
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.deps.json
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.runtimeconfig.json
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.runtimeconfig.dev.json
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.dll
+E:\PB-C#\radianstodegrees\tailoringWorkShop\bin\Debug\netcoreapp3.0\tailoringWorkShop.pdb
+E:\PB-C#\radianstodegrees\tailoringWorkShop\obj\Debug\netcoreapp3.0\tailoringWorkShop.csprojAssemblyReference.cache
+E:\PB-C#\radianstodegrees\tailoringWorkShop\obj\Debug\netcoreapp3.0\tailoringWorkShop.AssemblyInfoInputs.cache
+E:\PB-C#\radianstodegrees\tailoringWorkShop\obj\Debug\netcoreapp3.0\tailoringWorkShop.AssemblyInfo.cs
+E:\PB-C#\radianstodegrees\tailoringWorkShop\obj\Debug\netcoreapp3.0\tailoringWorkShop.dll
+E:\PB-C#\radianstodegrees\tailoringWorkShop\obj\Debug\netcoreapp3.0\tailoringWorkShop.pdb

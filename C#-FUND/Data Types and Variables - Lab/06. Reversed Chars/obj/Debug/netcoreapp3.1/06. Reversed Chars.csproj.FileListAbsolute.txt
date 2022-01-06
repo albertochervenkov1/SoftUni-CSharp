@@ -1,0 +1,12 @@
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+E:\C#-FUND\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache

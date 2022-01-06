@@ -1,0 +1,12 @@
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.exe
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.deps.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 29 February 2020 Group 1\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.genruntimeconfig.cache

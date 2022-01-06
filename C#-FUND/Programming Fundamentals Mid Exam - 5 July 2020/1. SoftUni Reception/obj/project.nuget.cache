@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZcUF/0GEnpPmWFYMXcRVTRtYXzTWI+HokaKU8lv8O+gE82WiZg+TCJzFOHjFsTqffTOyaSSIBZHBPncQKg3yw==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Programming Fundamentals Mid Exam - 5 July 2020\\1. SoftUni Reception\\1. SoftUni Reception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

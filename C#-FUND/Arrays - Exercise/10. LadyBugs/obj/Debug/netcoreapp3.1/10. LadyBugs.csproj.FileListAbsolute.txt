@@ -1,0 +1,13 @@
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.exe
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.deps.json
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.json
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.runtimeconfig.dev.json
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\bin\Debug\netcoreapp3.1\10. LadyBugs.pdb
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfoInputs.cache
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.AssemblyInfo.cs
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.dll
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.pdb
+E:\C#-FUND\Arrays - Exercise\10. LadyBugs\obj\Debug\netcoreapp3.1\10. LadyBugs.genruntimeconfig.cache

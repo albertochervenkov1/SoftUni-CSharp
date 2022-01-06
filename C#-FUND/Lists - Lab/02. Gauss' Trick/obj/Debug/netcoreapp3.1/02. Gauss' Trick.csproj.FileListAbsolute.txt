@@ -1,0 +1,13 @@
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+E:\C#-FUND\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.genruntimeconfig.cache

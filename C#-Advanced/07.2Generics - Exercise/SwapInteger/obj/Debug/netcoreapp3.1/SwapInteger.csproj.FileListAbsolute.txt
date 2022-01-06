@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.exe
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.deps.json
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.runtimeconfig.json
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\bin\Debug\netcoreapp3.1\SwapInteger.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\SwapInteger\obj\Debug\netcoreapp3.1\SwapInteger.genruntimeconfig.cache

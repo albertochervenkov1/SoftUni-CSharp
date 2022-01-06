@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.exe
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.deps.json
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.runtimeconfig.json
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.dll
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\bin\Debug\netcoreapp3.1\zad 1.pdb
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.dll
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.pdb
+E:\PB-C#\SCHOOL\gIzpitvane\zad 1\obj\Debug\netcoreapp3.1\zad 1.genruntimeconfig.cache

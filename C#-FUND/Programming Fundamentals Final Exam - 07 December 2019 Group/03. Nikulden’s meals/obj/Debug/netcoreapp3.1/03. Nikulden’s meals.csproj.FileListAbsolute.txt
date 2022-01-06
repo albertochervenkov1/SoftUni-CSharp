@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\bin\Debug\netcoreapp3.1\03. Nikulden’s meals.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\03. Nikulden’s meals\obj\Debug\netcoreapp3.1\03. Nikulden’s meals.genruntimeconfig.cache

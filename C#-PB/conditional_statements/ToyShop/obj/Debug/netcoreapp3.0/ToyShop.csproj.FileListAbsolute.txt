@@ -1,0 +1,11 @@
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.exe
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.deps.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.runtimeconfig.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.runtimeconfig.dev.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\bin\Debug\netcoreapp3.0\ToyShop.pdb
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.csprojAssemblyReference.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.AssemblyInfoInputs.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.AssemblyInfo.cs
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\ToyShop\obj\Debug\netcoreapp3.0\ToyShop.pdb

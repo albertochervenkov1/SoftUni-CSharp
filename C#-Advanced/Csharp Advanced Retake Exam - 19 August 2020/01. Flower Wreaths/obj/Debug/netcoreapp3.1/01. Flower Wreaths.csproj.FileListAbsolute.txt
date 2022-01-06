@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache

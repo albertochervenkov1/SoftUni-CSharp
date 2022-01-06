@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\bin\Debug\whileHomework.exe.config
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\bin\Debug\whileHomework.exe
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\bin\Debug\whileHomework.pdb
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.Form1.resources
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.Properties.Resources.resources
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.exe
+E:\PB-C#\SCHOOL\whileHomework\whileHomework\obj\Debug\whileHomework.pdb

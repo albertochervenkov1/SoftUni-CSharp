@@ -1,0 +1,11 @@
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.exe
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.deps.json
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.runtimeconfig.json
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.runtimeconfig.dev.json
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.dll
+E:\PB-C#\yardgreening\yardgreening\bin\Debug\netcoreapp3.0\yardgreening.pdb
+E:\PB-C#\yardgreening\yardgreening\obj\Debug\netcoreapp3.0\yardgreening.csprojAssemblyReference.cache
+E:\PB-C#\yardgreening\yardgreening\obj\Debug\netcoreapp3.0\yardgreening.AssemblyInfoInputs.cache
+E:\PB-C#\yardgreening\yardgreening\obj\Debug\netcoreapp3.0\yardgreening.AssemblyInfo.cs
+E:\PB-C#\yardgreening\yardgreening\obj\Debug\netcoreapp3.0\yardgreening.dll
+E:\PB-C#\yardgreening\yardgreening\obj\Debug\netcoreapp3.0\yardgreening.pdb

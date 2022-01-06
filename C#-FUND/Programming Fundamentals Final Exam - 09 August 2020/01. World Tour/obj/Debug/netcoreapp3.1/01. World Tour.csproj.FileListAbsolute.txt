@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

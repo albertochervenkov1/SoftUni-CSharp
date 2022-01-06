@@ -1,0 +1,11 @@
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.exe
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.deps.json
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.runtimeconfig.json
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.runtimeconfig.dev.json
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.dll
+E:\PB-C#\maxnumber\maxnumber\bin\Debug\netcoreapp3.0\maxnumber.pdb
+E:\PB-C#\maxnumber\maxnumber\obj\Debug\netcoreapp3.0\maxnumber.csprojAssemblyReference.cache
+E:\PB-C#\maxnumber\maxnumber\obj\Debug\netcoreapp3.0\maxnumber.AssemblyInfoInputs.cache
+E:\PB-C#\maxnumber\maxnumber\obj\Debug\netcoreapp3.0\maxnumber.AssemblyInfo.cs
+E:\PB-C#\maxnumber\maxnumber\obj\Debug\netcoreapp3.0\maxnumber.dll
+E:\PB-C#\maxnumber\maxnumber\obj\Debug\netcoreapp3.0\maxnumber.pdb

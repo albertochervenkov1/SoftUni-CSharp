@@ -1,0 +1,13 @@
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+E:\C#-FUND\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache

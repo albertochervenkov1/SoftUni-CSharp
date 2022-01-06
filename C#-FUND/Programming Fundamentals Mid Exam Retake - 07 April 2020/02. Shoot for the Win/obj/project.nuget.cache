@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lb/YfGtEcJFn51k3rXl78wM7yNVduXccySrhyC/Htdm8VnfqEPbbgRNRuhLTixl1aBtxWHzaTRaRNnJkQhhNeQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Programming Fundamentals Mid Exam Retake - 07 April 2020\\02. Shoot for the Win\\02. Shoot for the Win.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

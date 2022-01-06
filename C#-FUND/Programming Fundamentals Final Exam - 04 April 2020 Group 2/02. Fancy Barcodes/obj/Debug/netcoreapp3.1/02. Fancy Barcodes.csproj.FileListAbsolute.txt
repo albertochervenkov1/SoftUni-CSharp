@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

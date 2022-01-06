@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

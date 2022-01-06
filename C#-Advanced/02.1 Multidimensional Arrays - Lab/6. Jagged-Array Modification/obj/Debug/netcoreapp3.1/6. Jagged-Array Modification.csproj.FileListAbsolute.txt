@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.exe
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.deps.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfo.cs
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.genruntimeconfig.cache

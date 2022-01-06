@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lubotest", "lubotest\lubotest.csproj", "{559496E7-4835-4D0A-A553-6CA657EF393D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559496E7-4835-4D0A-A553-6CA657EF393D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559496E7-4835-4D0A-A553-6CA657EF393D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559496E7-4835-4D0A-A553-6CA657EF393D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559496E7-4835-4D0A-A553-6CA657EF393D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C45ACB1-0B34-4D78-B9C0-DCCE1BA990FB}
+	EndGlobalSection
+EndGlobal

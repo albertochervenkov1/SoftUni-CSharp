@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.exe
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.deps.json
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.json
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.genruntimeconfig.cache

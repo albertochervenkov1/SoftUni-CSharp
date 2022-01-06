@@ -1,0 +1,11 @@
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.csprojAssemblyReference.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfoInputs.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.AssemblyInfo.cs
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.exe
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.deps.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.runtimeconfig.dev.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\netcoreapp3.0\03. Vacation.pdb
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\netcoreapp3.0\03. Vacation.pdb

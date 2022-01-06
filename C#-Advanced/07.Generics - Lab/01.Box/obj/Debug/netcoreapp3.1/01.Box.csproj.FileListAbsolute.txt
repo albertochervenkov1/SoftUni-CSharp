@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.exe
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.deps.json
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.runtimeconfig.json
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.dll
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.pdb
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.csprojAssemblyReference.cache
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.AssemblyInfo.cs
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.dll
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.pdb
+E:\C#-ADVANCED\07.Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.genruntimeconfig.cache

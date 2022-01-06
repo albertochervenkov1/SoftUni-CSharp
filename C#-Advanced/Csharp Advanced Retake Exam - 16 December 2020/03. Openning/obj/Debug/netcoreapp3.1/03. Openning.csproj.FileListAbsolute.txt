@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.genruntimeconfig.cache

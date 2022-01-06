@@ -1,0 +1,14 @@
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.exe
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.deps.json
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.json
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.dev.json
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.dll
+D:\C#-PB\SCHOOL\25.11.21\zad2\bin\Debug\netcoreapp3.1\zad2.pdb
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.csproj.AssemblyReference.cache
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfoInputs.cache
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfo.cs
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.csproj.CoreCompileInputs.cache
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.dll
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.pdb
+D:\C#-PB\SCHOOL\25.11.21\zad2\obj\Debug\netcoreapp3.1\zad2.genruntimeconfig.cache

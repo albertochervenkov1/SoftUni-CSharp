@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 09 August 2020\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache

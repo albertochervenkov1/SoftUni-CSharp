@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 04 April 2020 Group 2\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\03. Heroes of Code and Logic VII.genruntimeconfig.cache

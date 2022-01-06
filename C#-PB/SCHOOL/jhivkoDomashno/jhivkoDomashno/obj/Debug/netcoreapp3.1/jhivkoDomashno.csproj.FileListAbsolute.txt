@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.exe
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.deps.json
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.runtimeconfig.json
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.dll
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\bin\Debug\netcoreapp3.1\jhivkoDomashno.pdb
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.dll
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.pdb
+E:\PB-C#\SCHOOL\jhivkoDomashno\jhivkoDomashno\obj\Debug\netcoreapp3.1\jhivkoDomashno.genruntimeconfig.cache

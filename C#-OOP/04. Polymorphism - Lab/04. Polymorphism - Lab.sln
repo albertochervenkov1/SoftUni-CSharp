@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{68C16976-1509-4DEC-8F45-1D78E7D5B0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{8B978732-9955-49CB-BFC3-22D63352EB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{8F95C423-43B7-42A6-B577-827CDF86AFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C16976-1509-4DEC-8F45-1D78E7D5B0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C16976-1509-4DEC-8F45-1D78E7D5B0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C16976-1509-4DEC-8F45-1D78E7D5B0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C16976-1509-4DEC-8F45-1D78E7D5B0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B978732-9955-49CB-BFC3-22D63352EB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B978732-9955-49CB-BFC3-22D63352EB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B978732-9955-49CB-BFC3-22D63352EB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B978732-9955-49CB-BFC3-22D63352EB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F95C423-43B7-42A6-B577-827CDF86AFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F95C423-43B7-42A6-B577-827CDF86AFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F95C423-43B7-42A6-B577-827CDF86AFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F95C423-43B7-42A6-B577-827CDF86AFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDF5B21-F69F-4A42-ABC6-DEA8E127D3CE}
+	EndGlobalSection
+EndGlobal

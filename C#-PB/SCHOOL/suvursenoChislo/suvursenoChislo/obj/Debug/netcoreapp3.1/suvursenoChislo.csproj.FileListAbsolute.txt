@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.exe
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.deps.json
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.runtimeconfig.json
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.dll
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\bin\Debug\netcoreapp3.1\suvursenoChislo.pdb
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.dll
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.pdb
+E:\PB-C#\SCHOOL\suvursenoChislo\suvursenoChislo\obj\Debug\netcoreapp3.1\suvursenoChislo.genruntimeconfig.cache

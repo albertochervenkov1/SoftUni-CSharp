@@ -1,0 +1,13 @@
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.exe
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.deps.json
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.json
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.dev.json
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.dll
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csprojAssemblyReference.cache
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfoInputs.cache
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfo.cs
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.dll
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+E:\C#-FUND\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.genruntimeconfig.cache

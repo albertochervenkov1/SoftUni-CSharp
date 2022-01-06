@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.exe
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.deps.json
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.json
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.dll
+E:\PB-C#\SCHOOL\whileHomework\zad2\bin\Debug\netcoreapp3.1\zad2.pdb
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.dll
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.pdb
+E:\PB-C#\SCHOOL\whileHomework\zad2\obj\Debug\netcoreapp3.1\zad2.genruntimeconfig.cache

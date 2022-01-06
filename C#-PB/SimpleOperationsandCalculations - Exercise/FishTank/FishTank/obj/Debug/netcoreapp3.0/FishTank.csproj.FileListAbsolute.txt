@@ -1,0 +1,11 @@
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.exe
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.deps.json
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.runtimeconfig.json
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.runtimeconfig.dev.json
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.dll
+E:\PB-C#\FishTank\FishTank\bin\Debug\netcoreapp3.0\FishTank.pdb
+E:\PB-C#\FishTank\FishTank\obj\Debug\netcoreapp3.0\FishTank.csprojAssemblyReference.cache
+E:\PB-C#\FishTank\FishTank\obj\Debug\netcoreapp3.0\FishTank.AssemblyInfoInputs.cache
+E:\PB-C#\FishTank\FishTank\obj\Debug\netcoreapp3.0\FishTank.AssemblyInfo.cs
+E:\PB-C#\FishTank\FishTank\obj\Debug\netcoreapp3.0\FishTank.dll
+E:\PB-C#\FishTank\FishTank\obj\Debug\netcoreapp3.0\FishTank.pdb

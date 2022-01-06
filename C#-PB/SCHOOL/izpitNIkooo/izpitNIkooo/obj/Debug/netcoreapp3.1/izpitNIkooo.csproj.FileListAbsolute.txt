@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.exe
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.deps.json
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.runtimeconfig.json
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.dll
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\bin\Debug\netcoreapp3.1\izpitNIkooo.pdb
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.dll
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.pdb
+E:\PB-C#\SCHOOL\izpitNIkooo\izpitNIkooo\obj\Debug\netcoreapp3.1\izpitNIkooo.genruntimeconfig.cache

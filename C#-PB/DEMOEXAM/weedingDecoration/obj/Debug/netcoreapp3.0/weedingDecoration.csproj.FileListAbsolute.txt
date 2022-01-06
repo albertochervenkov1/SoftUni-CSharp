@@ -1,0 +1,11 @@
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.exe
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.deps.json
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.dll
+E:\PB-C#\DEMOEXAM\weedingDecoration\bin\Debug\netcoreapp3.0\weedingDecoration.pdb
+E:\PB-C#\DEMOEXAM\weedingDecoration\obj\Debug\netcoreapp3.0\weedingDecoration.csprojAssemblyReference.cache
+E:\PB-C#\DEMOEXAM\weedingDecoration\obj\Debug\netcoreapp3.0\weedingDecoration.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\weedingDecoration\obj\Debug\netcoreapp3.0\weedingDecoration.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\weedingDecoration\obj\Debug\netcoreapp3.0\weedingDecoration.dll
+E:\PB-C#\DEMOEXAM\weedingDecoration\obj\Debug\netcoreapp3.0\weedingDecoration.pdb

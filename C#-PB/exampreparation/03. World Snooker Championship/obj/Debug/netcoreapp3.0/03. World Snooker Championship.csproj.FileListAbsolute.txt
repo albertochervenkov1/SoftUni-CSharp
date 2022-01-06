@@ -1,0 +1,11 @@
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.exe
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.deps.json
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.runtimeconfig.json
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.runtimeconfig.dev.json
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.dll
+E:\PB-C#\exampreparation\03. World Snooker Championship\bin\Debug\netcoreapp3.0\03. World Snooker Championship.pdb
+E:\PB-C#\exampreparation\03. World Snooker Championship\obj\Debug\netcoreapp3.0\03. World Snooker Championship.csprojAssemblyReference.cache
+E:\PB-C#\exampreparation\03. World Snooker Championship\obj\Debug\netcoreapp3.0\03. World Snooker Championship.AssemblyInfoInputs.cache
+E:\PB-C#\exampreparation\03. World Snooker Championship\obj\Debug\netcoreapp3.0\03. World Snooker Championship.AssemblyInfo.cs
+E:\PB-C#\exampreparation\03. World Snooker Championship\obj\Debug\netcoreapp3.0\03. World Snooker Championship.dll
+E:\PB-C#\exampreparation\03. World Snooker Championship\obj\Debug\netcoreapp3.0\03. World Snooker Championship.pdb

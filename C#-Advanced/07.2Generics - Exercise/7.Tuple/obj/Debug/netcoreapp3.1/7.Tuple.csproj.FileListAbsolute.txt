@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.exe
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.deps.json
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.json
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\bin\Debug\netcoreapp3.1\7.Tuple.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csprojAssemblyReference.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\7.Tuple\obj\Debug\netcoreapp3.1\7.Tuple.genruntimeconfig.cache

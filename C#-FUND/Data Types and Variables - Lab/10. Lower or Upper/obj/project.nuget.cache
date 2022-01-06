@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Kp+fuzp4q73IHava2YcPdFzkftZ6k39OaM3QDhEc73zKBbFcwn3isOhg81rNtIEqX+I2x7BW5Dc0MlpnZB8gA==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

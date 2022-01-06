@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfvpeyANAHM5d5TOiAa9wz9G8r5reK/n4HekpehraWPRJN7MwZQ4cN0pC2W2+DTUH3rWp2SfrQeTJgtjB725kA==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Programming Fundamentals Mid Exam Retake - 07 April 2020\\03. Moving Target\\03. Moving Target.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

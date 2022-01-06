@@ -1,0 +1,11 @@
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.exe
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.deps.json
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.dll
+E:\PB-C#\DEMOEXAM\04. Christmas Market\bin\Debug\netcoreapp3.0\04. Christmas Market.pdb
+E:\PB-C#\DEMOEXAM\04. Christmas Market\obj\Debug\netcoreapp3.0\04. Christmas Market.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\04. Christmas Market\obj\Debug\netcoreapp3.0\04. Christmas Market.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\04. Christmas Market\obj\Debug\netcoreapp3.0\04. Christmas Market.dll
+E:\PB-C#\DEMOEXAM\04. Christmas Market\obj\Debug\netcoreapp3.0\04. Christmas Market.pdb
+E:\PB-C#\DEMOEXAM\04. Christmas Market\obj\Debug\netcoreapp3.0\04. Christmas Market.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.exe
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.deps.json
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.dll
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.0\02. Pounds to Dollars.pdb
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.0\02. Pounds to Dollars.csprojAssemblyReference.cache
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.0\02. Pounds to Dollars.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.0\02. Pounds to Dollars.dll
+E:\C#-FUND\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.0\02. Pounds to Dollars.pdb

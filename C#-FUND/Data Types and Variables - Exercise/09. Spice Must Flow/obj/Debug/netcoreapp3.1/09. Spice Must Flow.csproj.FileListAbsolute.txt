@@ -1,0 +1,13 @@
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.exe
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.deps.json
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csprojAssemblyReference.cache
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.genruntimeconfig.cache

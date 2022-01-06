@@ -1,0 +1,12 @@
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.genruntimeconfig.cache

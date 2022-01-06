@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csprojAssemblyReference.cache
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+E:\C#-ADVANCED\07.Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

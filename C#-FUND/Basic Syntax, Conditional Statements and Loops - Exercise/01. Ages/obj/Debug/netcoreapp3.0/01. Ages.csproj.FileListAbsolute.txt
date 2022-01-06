@@ -1,0 +1,11 @@
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.exe
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.deps.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.runtimeconfig.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.runtimeconfig.dev.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.0\01. Ages.pdb
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.csprojAssemblyReference.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.AssemblyInfoInputs.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.AssemblyInfo.cs
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.0\01. Ages.pdb

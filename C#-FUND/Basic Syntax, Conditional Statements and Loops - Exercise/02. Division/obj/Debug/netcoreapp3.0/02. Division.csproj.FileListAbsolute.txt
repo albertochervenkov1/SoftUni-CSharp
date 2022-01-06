@@ -1,0 +1,11 @@
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.exe
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.deps.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.runtimeconfig.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.runtimeconfig.dev.json
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.0\02. Division.pdb
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.0\02. Division.csprojAssemblyReference.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.0\02. Division.AssemblyInfoInputs.cache
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.0\02. Division.AssemblyInfo.cs
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.0\02. Division.dll
+E:\C#-FUND\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.0\02. Division.pdb

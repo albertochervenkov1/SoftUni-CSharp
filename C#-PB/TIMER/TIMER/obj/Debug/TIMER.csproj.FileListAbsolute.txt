@@ -1,0 +1,9 @@
+E:\PB-C#\TIMER\TIMER\bin\Debug\TIMER.exe.config
+E:\PB-C#\TIMER\TIMER\bin\Debug\TIMER.exe
+E:\PB-C#\TIMER\TIMER\bin\Debug\TIMER.pdb
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.csprojAssemblyReference.cache
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.Form1.resources
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.Properties.Resources.resources
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.csproj.GenerateResource.cache
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.exe
+E:\PB-C#\TIMER\TIMER\obj\Debug\TIMER.pdb

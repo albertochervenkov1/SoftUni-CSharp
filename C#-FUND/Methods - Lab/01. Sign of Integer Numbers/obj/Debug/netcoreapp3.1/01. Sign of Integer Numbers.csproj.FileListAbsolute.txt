@@ -1,0 +1,13 @@
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csprojAssemblyReference.cache
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+E:\C#-FUND\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

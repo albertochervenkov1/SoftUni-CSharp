@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.exe
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.deps.json
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.runtimeconfig.json
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.dll
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\bin\Debug\netcoreapp3.1\gurovTest.pdb
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.dll
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.pdb
+E:\PB-C#\SCHOOL\gurovTest\gurovTest\obj\Debug\netcoreapp3.1\gurovTest.genruntimeconfig.cache

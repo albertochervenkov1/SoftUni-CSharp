@@ -1,0 +1,11 @@
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.exe
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.deps.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.runtimeconfig.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.runtimeconfig.dev.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\bin\Debug\netcoreapp3.0\CharityCampaign.pdb
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\obj\Debug\netcoreapp3.0\CharityCampaign.csprojAssemblyReference.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\obj\Debug\netcoreapp3.0\CharityCampaign.AssemblyInfoInputs.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\obj\Debug\netcoreapp3.0\CharityCampaign.AssemblyInfo.cs
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\obj\Debug\netcoreapp3.0\CharityCampaign.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\CharityCampaign\obj\Debug\netcoreapp3.0\CharityCampaign.pdb

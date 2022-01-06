@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.exe
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.deps.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.dev.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.dll
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.pdb
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csprojAssemblyReference.cache
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfo.cs
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.dll
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.pdb
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.genruntimeconfig.cache

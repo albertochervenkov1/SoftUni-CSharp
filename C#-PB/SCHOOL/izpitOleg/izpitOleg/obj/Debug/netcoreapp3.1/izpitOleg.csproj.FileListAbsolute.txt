@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.exe
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.deps.json
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.runtimeconfig.json
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.dll
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\bin\Debug\netcoreapp3.1\izpitOleg.pdb
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.dll
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.pdb
+E:\PB-C#\SCHOOL\izpitOleg\izpitOleg\obj\Debug\netcoreapp3.1\izpitOleg.genruntimeconfig.cache

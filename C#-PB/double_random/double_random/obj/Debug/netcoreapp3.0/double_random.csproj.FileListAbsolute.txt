@@ -1,0 +1,11 @@
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.exe
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.deps.json
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.runtimeconfig.json
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.runtimeconfig.dev.json
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.dll
+E:\PB-C#\double_random\double_random\bin\Debug\netcoreapp3.0\double_random.pdb
+E:\PB-C#\double_random\double_random\obj\Debug\netcoreapp3.0\double_random.csprojAssemblyReference.cache
+E:\PB-C#\double_random\double_random\obj\Debug\netcoreapp3.0\double_random.AssemblyInfoInputs.cache
+E:\PB-C#\double_random\double_random\obj\Debug\netcoreapp3.0\double_random.AssemblyInfo.cs
+E:\PB-C#\double_random\double_random\obj\Debug\netcoreapp3.0\double_random.dll
+E:\PB-C#\double_random\double_random\obj\Debug\netcoreapp3.0\double_random.pdb

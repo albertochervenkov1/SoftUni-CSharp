@@ -1,0 +1,13 @@
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.exe
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.deps.json
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.json
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.dev.json
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.dll
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.dll
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+E:\C#-FUND\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.genruntimeconfig.cache

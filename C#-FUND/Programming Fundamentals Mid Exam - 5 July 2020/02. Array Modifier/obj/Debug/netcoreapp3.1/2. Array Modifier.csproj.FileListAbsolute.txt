@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.exe
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.deps.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\bin\Debug\netcoreapp3.1\2. Array Modifier.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\02. Array Modifier\obj\Debug\netcoreapp3.1\2. Array Modifier.genruntimeconfig.cache

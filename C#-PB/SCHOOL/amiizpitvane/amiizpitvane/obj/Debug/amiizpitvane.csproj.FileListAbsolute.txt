@@ -1,0 +1,9 @@
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\bin\Debug\amiizpitvane.exe.config
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\bin\Debug\amiizpitvane.exe
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\bin\Debug\amiizpitvane.pdb
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.Form1.resources
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.Properties.Resources.resources
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.exe
+E:\PB-C#\SCHOOL\amiizpitvane\amiizpitvane\obj\Debug\amiizpitvane.pdb

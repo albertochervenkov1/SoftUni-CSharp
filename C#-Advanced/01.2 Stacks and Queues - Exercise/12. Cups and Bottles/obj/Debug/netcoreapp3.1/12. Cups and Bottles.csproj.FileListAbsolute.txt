@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\C#-ADVANCED\01.2 Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache

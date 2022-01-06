@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.exe
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.deps.json
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.runtimeconfig.json
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\bin\Debug\netcoreapp3.1\1.GenericBoxofString.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\1.GenericBoxofString\obj\Debug\netcoreapp3.1\1.GenericBoxofString.genruntimeconfig.cache

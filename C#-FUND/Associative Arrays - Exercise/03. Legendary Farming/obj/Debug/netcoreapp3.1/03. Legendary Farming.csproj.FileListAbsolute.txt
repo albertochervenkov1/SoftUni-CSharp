@@ -1,0 +1,13 @@
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+E:\C#-FUND\01. Count Chars in a String\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache

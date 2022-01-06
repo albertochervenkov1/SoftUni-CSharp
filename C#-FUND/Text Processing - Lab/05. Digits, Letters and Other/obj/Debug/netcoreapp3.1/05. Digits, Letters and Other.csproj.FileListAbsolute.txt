@@ -1,0 +1,12 @@
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+E:\C#-FUND\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.genruntimeconfig.cache

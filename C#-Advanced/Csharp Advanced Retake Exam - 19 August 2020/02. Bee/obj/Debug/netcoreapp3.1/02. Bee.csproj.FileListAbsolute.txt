@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.genruntimeconfig.cache

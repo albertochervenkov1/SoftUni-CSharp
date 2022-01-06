@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.exe
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.deps.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\bin\Debug\netcoreapp3.1\1. SoftUni Reception.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam - 5 July 2020\1. SoftUni Reception\obj\Debug\netcoreapp3.1\1. SoftUni Reception.genruntimeconfig.cache

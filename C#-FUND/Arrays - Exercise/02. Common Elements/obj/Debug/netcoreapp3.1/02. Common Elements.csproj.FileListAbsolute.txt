@@ -1,0 +1,13 @@
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+E:\C#-FUND\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

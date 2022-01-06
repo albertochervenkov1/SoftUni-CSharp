@@ -1,0 +1,10 @@
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.exe
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.deps.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.runtimeconfig.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.runtimeconfig.dev.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\bin\Debug\netcoreapp3.0\alchoolmarket.pdb
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\obj\Debug\netcoreapp3.0\alchoolmarket.AssemblyInfoInputs.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\obj\Debug\netcoreapp3.0\alchoolmarket.AssemblyInfo.cs
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\obj\Debug\netcoreapp3.0\alchoolmarket.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\alchoolmarket\obj\Debug\netcoreapp3.0\alchoolmarket.pdb

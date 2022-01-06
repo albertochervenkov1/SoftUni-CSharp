@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.exe
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.deps.json
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.runtimeconfig.json
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.dll
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\bin\Debug\netcoreapp3.1\zad2GN.pdb
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.dll
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.pdb
+E:\PB-C#\SCHOOL\zad2GN\zad2GN\obj\Debug\netcoreapp3.1\zad2GN.genruntimeconfig.cache

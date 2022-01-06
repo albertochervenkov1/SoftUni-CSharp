@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2----.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2____.Form1.resources
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2____.Properties.Resources.resources
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2----.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2----.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\whileHomework\zad2----\bin\Debug\zad2----.exe.config
+E:\PB-C#\SCHOOL\whileHomework\zad2----\bin\Debug\zad2----.exe
+E:\PB-C#\SCHOOL\whileHomework\zad2----\bin\Debug\zad2----.pdb
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2----.exe
+E:\PB-C#\SCHOOL\whileHomework\zad2----\obj\Debug\zad2----.pdb

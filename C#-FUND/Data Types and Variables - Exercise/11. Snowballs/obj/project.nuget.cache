@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBCfux0hZYeExpUcZNhD9yTx//UV/wJ8dIUdkz8ysovCEbVmhI4ezERhNXARbM+BWuyMZtS+nZEa9mnucjLWFQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Data Types and Variables - Exercise\\11. Snowballs\\11. Snowballs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

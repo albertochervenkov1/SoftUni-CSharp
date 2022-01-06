@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZ3VxfnHzFMKtL3H5NRYiF2LJaWPYXkIupo9Jn7cideV5420hIeBhsdLxztJHpqLDekLBh0YFSbTt5wjivvB7g==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

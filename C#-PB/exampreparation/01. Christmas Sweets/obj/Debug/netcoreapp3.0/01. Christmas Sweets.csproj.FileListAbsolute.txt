@@ -1,0 +1,11 @@
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.exe
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.deps.json
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.runtimeconfig.json
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.runtimeconfig.dev.json
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.dll
+E:\PB-C#\exampreparation\01. Christmas Sweets\bin\Debug\netcoreapp3.0\01. Christmas Sweets.pdb
+E:\PB-C#\exampreparation\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.csprojAssemblyReference.cache
+E:\PB-C#\exampreparation\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.AssemblyInfoInputs.cache
+E:\PB-C#\exampreparation\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.AssemblyInfo.cs
+E:\PB-C#\exampreparation\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.dll
+E:\PB-C#\exampreparation\01. Christmas Sweets\obj\Debug\netcoreapp3.0\01. Christmas Sweets.pdb

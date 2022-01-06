@@ -1,0 +1,9 @@
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.Form1.resources
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.Properties.Resources.resources
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\izpit\izpit\bin\Debug\izpit.exe.config
+E:\PB-C#\SCHOOL\izpit\izpit\bin\Debug\izpit.exe
+E:\PB-C#\SCHOOL\izpit\izpit\bin\Debug\izpit.pdb
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.exe
+E:\PB-C#\SCHOOL\izpit\izpit\obj\Debug\izpit.pdb

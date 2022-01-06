@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIhEhOaz0TxfID9aS6xtzs5FkAA4xJrPazlRLy7BoxwoKyo1XDcA+RYau2kUkNLLdWJ9HVlzyJfJIEcLZYeevw==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Methods - Lab\\03. Calculations\\03. Calculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

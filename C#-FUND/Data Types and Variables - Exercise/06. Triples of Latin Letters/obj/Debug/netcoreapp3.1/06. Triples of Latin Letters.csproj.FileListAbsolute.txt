@@ -1,0 +1,13 @@
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.exe
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.deps.json
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.genruntimeconfig.cache
+E:\C#-FUND\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csprojAssemblyReference.cache

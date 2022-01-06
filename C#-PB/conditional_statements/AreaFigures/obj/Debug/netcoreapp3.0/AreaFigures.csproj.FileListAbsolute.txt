@@ -1,0 +1,11 @@
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.exe
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.deps.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.runtimeconfig.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.runtimeconfig.dev.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\bin\Debug\netcoreapp3.0\AreaFigures.pdb
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\obj\Debug\netcoreapp3.0\AreaFigures.csprojAssemblyReference.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\obj\Debug\netcoreapp3.0\AreaFigures.AssemblyInfoInputs.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\obj\Debug\netcoreapp3.0\AreaFigures.AssemblyInfo.cs
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\obj\Debug\netcoreapp3.0\AreaFigures.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\conditional_statements\AreaFigures\obj\Debug\netcoreapp3.0\AreaFigures.pdb

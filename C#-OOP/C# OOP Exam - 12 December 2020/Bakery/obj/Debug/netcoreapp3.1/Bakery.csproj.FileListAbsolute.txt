@@ -1,0 +1,4 @@
+E:\C#-OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+E:\C#-OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+E:\C#-OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+E:\C#-OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache

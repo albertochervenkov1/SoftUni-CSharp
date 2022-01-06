@@ -1,0 +1,13 @@
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb
+E:\C#-FUND\Arrays - Exercise\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.genruntimeconfig.cache

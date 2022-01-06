@@ -1,0 +1,10 @@
+E:\C#-FUND\Arrays - Lab\зад7\bin\Debug\зад7.exe.config
+E:\C#-FUND\Arrays - Lab\зад7\bin\Debug\зад7.exe
+E:\C#-FUND\Arrays - Lab\зад7\bin\Debug\зад7.pdb
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.csprojAssemblyReference.cache
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.Form1.resources
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.Properties.Resources.resources
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.csproj.GenerateResource.cache
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.exe
+E:\C#-FUND\Arrays - Lab\зад7\obj\Debug\зад7.pdb

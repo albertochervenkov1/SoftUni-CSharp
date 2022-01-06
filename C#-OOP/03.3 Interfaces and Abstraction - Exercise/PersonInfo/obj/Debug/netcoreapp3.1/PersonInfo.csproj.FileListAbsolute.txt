@@ -1,0 +1,13 @@
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\C#-OOP\03.3 Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

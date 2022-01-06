@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.dll
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.pdb
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.dll
+E:\C#-OOP\06.2 Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.pdb

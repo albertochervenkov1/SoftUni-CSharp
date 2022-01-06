@@ -1,0 +1,13 @@
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csprojAssemblyReference.cache
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+E:\C#-FUND\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

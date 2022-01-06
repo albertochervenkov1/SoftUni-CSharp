@@ -1,0 +1,11 @@
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.exe
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.deps.json
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.runtimeconfig.json
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.runtimeconfig.dev.json
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.dll
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\bin\Debug\netcoreapp3.0\07. Left and Right Sum.pdb
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\obj\Debug\netcoreapp3.0\07. Left and Right Sum.csprojAssemblyReference.cache
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\obj\Debug\netcoreapp3.0\07. Left and Right Sum.AssemblyInfoInputs.cache
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\obj\Debug\netcoreapp3.0\07. Left and Right Sum.AssemblyInfo.cs
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\obj\Debug\netcoreapp3.0\07. Left and Right Sum.dll
+E:\PB-C#\For-Loop - Lab\07. Left and Right Sum\obj\Debug\netcoreapp3.0\07. Left and Right Sum.pdb

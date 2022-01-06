@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 20 February 2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache

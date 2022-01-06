@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.exe
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.deps.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\bin\Debug\netcoreapp3.1\01. Nikulden’s Charity.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.dll
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.pdb
+E:\C#-FUND\Programming Fundamentals Final Exam - 07 December 2019 Group\01. Nikulden’s Charity\obj\Debug\netcoreapp3.1\01. Nikulden’s Charity.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.exe
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.deps.json
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.dll
+E:\PB-C#\DEMOEXAM\petsFOOD\bin\Debug\netcoreapp3.0\petsFOOD.pdb
+E:\PB-C#\DEMOEXAM\petsFOOD\obj\Debug\netcoreapp3.0\petsFOOD.csprojAssemblyReference.cache
+E:\PB-C#\DEMOEXAM\petsFOOD\obj\Debug\netcoreapp3.0\petsFOOD.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\petsFOOD\obj\Debug\netcoreapp3.0\petsFOOD.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\petsFOOD\obj\Debug\netcoreapp3.0\petsFOOD.dll
+E:\PB-C#\DEMOEXAM\petsFOOD\obj\Debug\netcoreapp3.0\petsFOOD.pdb

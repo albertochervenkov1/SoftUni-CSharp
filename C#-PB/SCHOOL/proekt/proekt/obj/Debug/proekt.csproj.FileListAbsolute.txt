@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\proekt\proekt\bin\Debug\proekt.exe.config
+E:\PB-C#\SCHOOL\proekt\proekt\bin\Debug\proekt.exe
+E:\PB-C#\SCHOOL\proekt\proekt\bin\Debug\proekt.pdb
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.Form1.resources
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.Properties.Resources.resources
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.exe
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.pdb
+E:\PB-C#\SCHOOL\proekt\proekt\obj\Debug\proekt.csproj.CoreCompileInputs.cache

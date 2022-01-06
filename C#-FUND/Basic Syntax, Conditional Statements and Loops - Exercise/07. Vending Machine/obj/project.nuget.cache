@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dQJNbDAVKJkk3j+aKv330p+DEU94LE3Flidmys+yUKi3kboqJ1uOM1TndzG0YuSTrPG67ggkExiT9tP5Zw3RQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Basic Syntax, Conditional Statements and Loops - Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

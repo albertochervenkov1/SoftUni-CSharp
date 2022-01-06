@@ -1,0 +1,11 @@
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.exe
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.deps.json
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.runtimeconfig.json
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.runtimeconfig.dev.json
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.dll
+E:\PB-C#\radianstodegrees\usdtobgn\bin\Debug\netcoreapp3.0\usdtobgn.pdb
+E:\PB-C#\radianstodegrees\usdtobgn\obj\Debug\netcoreapp3.0\usdtobgn.csprojAssemblyReference.cache
+E:\PB-C#\radianstodegrees\usdtobgn\obj\Debug\netcoreapp3.0\usdtobgn.AssemblyInfoInputs.cache
+E:\PB-C#\radianstodegrees\usdtobgn\obj\Debug\netcoreapp3.0\usdtobgn.AssemblyInfo.cs
+E:\PB-C#\radianstodegrees\usdtobgn\obj\Debug\netcoreapp3.0\usdtobgn.dll
+E:\PB-C#\radianstodegrees\usdtobgn\obj\Debug\netcoreapp3.0\usdtobgn.pdb

@@ -1,0 +1,13 @@
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+E:\C#-FUND\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csprojAssemblyReference.cache
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+E:\C#-FUND\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

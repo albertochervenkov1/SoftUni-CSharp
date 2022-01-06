@@ -1,0 +1,13 @@
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.exe
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.deps.json
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.json
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.dev.json
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.csprojAssemblyReference.cache
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfo.cs
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb
+E:\C#-FUND\01. Furniture\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.genruntimeconfig.cache

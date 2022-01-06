@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+E:\C#-ADVANCED\Csharp Advanced Exam - 28 June 2020\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

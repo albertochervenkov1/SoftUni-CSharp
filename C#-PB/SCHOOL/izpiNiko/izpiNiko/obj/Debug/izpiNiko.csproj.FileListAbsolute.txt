@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\bin\Debug\izpiNiko.exe.config
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\bin\Debug\izpiNiko.exe
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\bin\Debug\izpiNiko.pdb
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.Form1.resources
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.Properties.Resources.resources
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.exe
+E:\PB-C#\SCHOOL\izpiNiko\izpiNiko\obj\Debug\izpiNiko.pdb

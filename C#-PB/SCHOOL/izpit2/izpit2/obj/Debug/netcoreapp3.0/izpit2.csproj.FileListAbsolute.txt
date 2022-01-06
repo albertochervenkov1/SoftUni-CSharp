@@ -1,0 +1,11 @@
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.exe
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.deps.json
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.runtimeconfig.json
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.dll
+E:\PB-C#\SCHOOL\izpit2\izpit2\bin\Debug\netcoreapp3.0\izpit2.pdb
+E:\PB-C#\SCHOOL\izpit2\izpit2\obj\Debug\netcoreapp3.0\izpit2.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpit2\izpit2\obj\Debug\netcoreapp3.0\izpit2.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\izpit2\izpit2\obj\Debug\netcoreapp3.0\izpit2.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\izpit2\izpit2\obj\Debug\netcoreapp3.0\izpit2.dll
+E:\PB-C#\SCHOOL\izpit2\izpit2\obj\Debug\netcoreapp3.0\izpit2.pdb

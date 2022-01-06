@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\bin\Debug\izhodnoAlberto.exe.config
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\bin\Debug\izhodnoAlberto.exe
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\bin\Debug\izhodnoAlberto.pdb
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.Form1.resources
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.Properties.Resources.resources
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.exe
+E:\PB-C#\SCHOOL\izhodnoAlberto\izhodnoAlberto\obj\Debug\izhodnoAlberto.pdb

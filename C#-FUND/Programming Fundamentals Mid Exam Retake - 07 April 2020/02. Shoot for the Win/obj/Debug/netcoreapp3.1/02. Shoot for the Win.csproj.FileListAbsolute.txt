@@ -1,0 +1,13 @@
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.exe
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.deps.json
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.json
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.dev.json
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csprojAssemblyReference.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfoInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfo.cs
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+E:\C#-FUND\Programming Fundamentals Mid Exam Retake - 07 April 2020\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.genruntimeconfig.cache

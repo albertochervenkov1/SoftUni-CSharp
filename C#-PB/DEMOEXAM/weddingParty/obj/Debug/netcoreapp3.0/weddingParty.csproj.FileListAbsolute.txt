@@ -1,0 +1,10 @@
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.exe
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.deps.json
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.dll
+E:\PB-C#\DEMOEXAM\weddingParty\bin\Debug\netcoreapp3.0\weddingParty.pdb
+E:\PB-C#\DEMOEXAM\weddingParty\obj\Debug\netcoreapp3.0\weddingParty.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\weddingParty\obj\Debug\netcoreapp3.0\weddingParty.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\weddingParty\obj\Debug\netcoreapp3.0\weddingParty.dll
+E:\PB-C#\DEMOEXAM\weddingParty\obj\Debug\netcoreapp3.0\weddingParty.pdb

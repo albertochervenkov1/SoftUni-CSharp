@@ -1,0 +1,9 @@
+E:\PB-C#\Solution1\zad1\bin\Debug\zad1.exe.config
+E:\PB-C#\Solution1\zad1\bin\Debug\zad1.exe
+E:\PB-C#\Solution1\zad1\bin\Debug\zad1.pdb
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.Form1.resources
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.Properties.Resources.resources
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.exe
+E:\PB-C#\Solution1\zad1\obj\Debug\zad1.pdb

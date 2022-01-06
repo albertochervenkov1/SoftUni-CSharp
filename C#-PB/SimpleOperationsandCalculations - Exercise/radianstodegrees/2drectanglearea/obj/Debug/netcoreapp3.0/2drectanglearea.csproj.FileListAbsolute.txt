@@ -1,0 +1,11 @@
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.exe
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.deps.json
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.runtimeconfig.json
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.runtimeconfig.dev.json
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.dll
+E:\PB-C#\radianstodegrees\2drectanglearea\bin\Debug\netcoreapp3.0\2drectanglearea.pdb
+E:\PB-C#\radianstodegrees\2drectanglearea\obj\Debug\netcoreapp3.0\2drectanglearea.csprojAssemblyReference.cache
+E:\PB-C#\radianstodegrees\2drectanglearea\obj\Debug\netcoreapp3.0\2drectanglearea.AssemblyInfoInputs.cache
+E:\PB-C#\radianstodegrees\2drectanglearea\obj\Debug\netcoreapp3.0\2drectanglearea.AssemblyInfo.cs
+E:\PB-C#\radianstodegrees\2drectanglearea\obj\Debug\netcoreapp3.0\2drectanglearea.dll
+E:\PB-C#\radianstodegrees\2drectanglearea\obj\Debug\netcoreapp3.0\2drectanglearea.pdb

@@ -1,0 +1,9 @@
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\bin\Debug\FOR-SCHOOL.exe.config
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\bin\Debug\FOR-SCHOOL.exe
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\bin\Debug\FOR-SCHOOL.pdb
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR-SCHOOL.csprojAssemblyReference.cache
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR_SCHOOL.Form1.resources
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR_SCHOOL.Properties.Resources.resources
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR-SCHOOL.csproj.GenerateResource.cache
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR-SCHOOL.exe
+E:\PB-C#\FOR-SCHOOL\FOR-SCHOOL\obj\Debug\FOR-SCHOOL.pdb

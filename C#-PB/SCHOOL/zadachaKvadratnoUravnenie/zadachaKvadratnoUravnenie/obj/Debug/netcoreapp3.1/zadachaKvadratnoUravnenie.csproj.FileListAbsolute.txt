@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.exe
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.deps.json
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.runtimeconfig.json
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.dll
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\bin\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.pdb
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.dll
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.pdb
+E:\PB-C#\SCHOOL\zadachaKvadratnoUravnenie\zadachaKvadratnoUravnenie\obj\Debug\netcoreapp3.1\zadachaKvadratnoUravnenie.genruntimeconfig.cache

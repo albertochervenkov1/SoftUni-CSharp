@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.exe
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.deps.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csprojAssemblyReference.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfo.cs
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.genruntimeconfig.cache

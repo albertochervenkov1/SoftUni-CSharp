@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.exe
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.deps.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.dev.json
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfo.cs
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+E:\C#-ADVANCED\02.1 Multidimensional Arrays - Lab\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.genruntimeconfig.cache

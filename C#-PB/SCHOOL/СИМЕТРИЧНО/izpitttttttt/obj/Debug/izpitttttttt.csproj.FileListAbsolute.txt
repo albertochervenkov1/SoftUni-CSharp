@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\bin\Debug\izpitttttttt.exe.config
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\bin\Debug\izpitttttttt.exe
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\bin\Debug\izpitttttttt.pdb
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.Form1.resources
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.Properties.Resources.resources
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.exe
+E:\PB-C#\SCHOOL\izpitttttttt\izpitttttttt\obj\Debug\izpitttttttt.pdb

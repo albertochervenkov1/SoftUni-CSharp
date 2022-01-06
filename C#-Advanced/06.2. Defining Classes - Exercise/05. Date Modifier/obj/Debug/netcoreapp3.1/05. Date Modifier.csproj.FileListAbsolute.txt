@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csprojAssemblyReference.cache
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+E:\C#-ADVANCED\06.2. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache

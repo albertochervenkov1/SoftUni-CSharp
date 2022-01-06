@@ -1,0 +1,13 @@
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+E:\C#-FUND\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csprojAssemblyReference.cache
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+E:\C#-FUND\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache

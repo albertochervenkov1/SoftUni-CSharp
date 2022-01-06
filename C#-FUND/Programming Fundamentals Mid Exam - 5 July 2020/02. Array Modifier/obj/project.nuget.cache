@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oj1rmIVImrXA/j5oBx7Df/g3qdLSgZVg+O/HqTKZL6Yf7Oc8LLBqYhQDaNY4EvRM1OU/FeXrQ1+IOIcwQ4eNGg==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Programming Fundamentals Mid Exam - 5 July 2020\\02. Array Modifier\\2. Array Modifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.exe
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.deps.json
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.runtimeconfig.json
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.runtimeconfig.dev.json
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.dll
+E:\PB-C#\05. Max Number\07. Graduation\bin\Debug\netcoreapp3.0\07. Graduation.pdb
+E:\PB-C#\05. Max Number\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.csprojAssemblyReference.cache
+E:\PB-C#\05. Max Number\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.AssemblyInfoInputs.cache
+E:\PB-C#\05. Max Number\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.AssemblyInfo.cs
+E:\PB-C#\05. Max Number\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.dll
+E:\PB-C#\05. Max Number\07. Graduation\obj\Debug\netcoreapp3.0\07. Graduation.pdb

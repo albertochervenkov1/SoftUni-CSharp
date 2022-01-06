@@ -1,0 +1,4 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.csprojAssemblyReference.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache

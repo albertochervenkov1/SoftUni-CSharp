@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.exe
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.deps.json
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.runtimeconfig.json
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.dll
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\bin\Debug\netcoreapp3.1\zhivkoDom.pdb
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.dll
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.pdb
+E:\PB-C#\SCHOOL\zhivkoDom\zhivkoDom\obj\Debug\netcoreapp3.1\zhivkoDom.genruntimeconfig.cache

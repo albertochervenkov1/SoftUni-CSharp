@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.exe
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.deps.json
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.runtimeconfig.json
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.runtimeconfig.dev.json
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\3GenericSwapMethodStrings.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.csprojAssemblyReference.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.AssemblyInfo.cs
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.dll
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.pdb
+E:\C#-ADVANCED\07.2Generics - Exercise\3GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\3GenericSwapMethodStrings.genruntimeconfig.cache

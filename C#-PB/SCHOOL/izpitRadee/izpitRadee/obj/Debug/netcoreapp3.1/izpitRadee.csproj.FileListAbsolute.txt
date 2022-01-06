@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.exe
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.deps.json
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.runtimeconfig.json
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.dll
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\bin\Debug\netcoreapp3.1\izpitRadee.pdb
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.dll
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.pdb
+E:\PB-C#\SCHOOL\izpitRadee\izpitRadee\obj\Debug\netcoreapp3.1\izpitRadee.genruntimeconfig.cache

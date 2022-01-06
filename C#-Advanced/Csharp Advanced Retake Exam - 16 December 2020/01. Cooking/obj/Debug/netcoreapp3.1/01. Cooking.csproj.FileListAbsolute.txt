@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.exe
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.deps.json
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.dll
+E:\PB-C#\DEMOEXAM\01. Rent\bin\Debug\netcoreapp3.0\01. Rent.pdb
+E:\PB-C#\DEMOEXAM\01. Rent\obj\Debug\netcoreapp3.0\01. Rent.csprojAssemblyReference.cache
+E:\PB-C#\DEMOEXAM\01. Rent\obj\Debug\netcoreapp3.0\01. Rent.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\01. Rent\obj\Debug\netcoreapp3.0\01. Rent.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\01. Rent\obj\Debug\netcoreapp3.0\01. Rent.dll
+E:\PB-C#\DEMOEXAM\01. Rent\obj\Debug\netcoreapp3.0\01. Rent.pdb

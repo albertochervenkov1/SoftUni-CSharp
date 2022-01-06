@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 16 December 2020\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache

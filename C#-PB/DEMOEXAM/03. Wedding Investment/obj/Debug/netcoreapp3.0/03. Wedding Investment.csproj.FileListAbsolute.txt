@@ -1,0 +1,11 @@
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.exe
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.deps.json
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.runtimeconfig.json
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.runtimeconfig.dev.json
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.dll
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\bin\Debug\netcoreapp3.0\03. Wedding Investment.pdb
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\obj\Debug\netcoreapp3.0\03. Wedding Investment.csprojAssemblyReference.cache
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\obj\Debug\netcoreapp3.0\03. Wedding Investment.AssemblyInfoInputs.cache
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\obj\Debug\netcoreapp3.0\03. Wedding Investment.AssemblyInfo.cs
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\obj\Debug\netcoreapp3.0\03. Wedding Investment.dll
+E:\PB-C#\DEMOEXAM\03. Wedding Investment\obj\Debug\netcoreapp3.0\03. Wedding Investment.pdb

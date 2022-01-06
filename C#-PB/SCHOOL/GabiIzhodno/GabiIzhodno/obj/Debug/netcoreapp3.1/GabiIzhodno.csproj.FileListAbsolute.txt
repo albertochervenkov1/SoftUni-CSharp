@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.exe
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.deps.json
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.runtimeconfig.json
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.dll
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\bin\Debug\netcoreapp3.1\GabiIzhodno.pdb
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.dll
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.pdb
+E:\PB-C#\SCHOOL\GabiIzhodno\GabiIzhodno\obj\Debug\netcoreapp3.1\GabiIzhodno.genruntimeconfig.cache

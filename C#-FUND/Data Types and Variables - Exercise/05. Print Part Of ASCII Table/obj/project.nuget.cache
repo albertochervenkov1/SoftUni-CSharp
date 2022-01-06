@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtY/aI4WR//b1bgZTW+m9gcmWMW2oqMC1wLgqwGysReaiCQFFyQMKXvYs39qqmjAwE7aI83UznqxMF00ayROOw==",
+  "success": true,
+  "projectFilePath": "E:\\C#-FUND\\Data Types and Variables - Exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

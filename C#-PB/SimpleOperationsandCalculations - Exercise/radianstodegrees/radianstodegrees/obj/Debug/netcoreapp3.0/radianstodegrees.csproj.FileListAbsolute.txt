@@ -1,0 +1,10 @@
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.exe
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.deps.json
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.runtimeconfig.json
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.runtimeconfig.dev.json
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.dll
+E:\PB-C#\radianstodegrees\radianstodegrees\bin\Debug\netcoreapp3.0\radianstodegrees.pdb
+E:\PB-C#\radianstodegrees\radianstodegrees\obj\Debug\netcoreapp3.0\radianstodegrees.AssemblyInfoInputs.cache
+E:\PB-C#\radianstodegrees\radianstodegrees\obj\Debug\netcoreapp3.0\radianstodegrees.AssemblyInfo.cs
+E:\PB-C#\radianstodegrees\radianstodegrees\obj\Debug\netcoreapp3.0\radianstodegrees.dll
+E:\PB-C#\radianstodegrees\radianstodegrees\obj\Debug\netcoreapp3.0\radianstodegrees.pdb

@@ -1,0 +1,12 @@
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+E:\C#-FUND\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.genruntimeconfig.cache

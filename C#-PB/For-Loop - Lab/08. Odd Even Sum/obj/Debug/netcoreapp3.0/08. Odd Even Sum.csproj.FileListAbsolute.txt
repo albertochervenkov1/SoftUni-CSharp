@@ -1,0 +1,10 @@
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.exe
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.deps.json
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.runtimeconfig.json
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.runtimeconfig.dev.json
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.dll
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\bin\Debug\netcoreapp3.0\08. Odd Even Sum.pdb
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\obj\Debug\netcoreapp3.0\08. Odd Even Sum.AssemblyInfoInputs.cache
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\obj\Debug\netcoreapp3.0\08. Odd Even Sum.AssemblyInfo.cs
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\obj\Debug\netcoreapp3.0\08. Odd Even Sum.dll
+E:\PB-C#\For-Loop - Lab\08. Odd Even Sum\obj\Debug\netcoreapp3.0\08. Odd Even Sum.pdb

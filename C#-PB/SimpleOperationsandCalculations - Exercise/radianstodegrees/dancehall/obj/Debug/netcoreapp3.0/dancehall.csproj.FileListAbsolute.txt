@@ -1,0 +1,11 @@
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.exe
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.deps.json
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.runtimeconfig.json
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.runtimeconfig.dev.json
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.dll
+E:\PB-C#\radianstodegrees\dancehall\bin\Debug\netcoreapp3.0\dancehall.pdb
+E:\PB-C#\radianstodegrees\dancehall\obj\Debug\netcoreapp3.0\dancehall.csprojAssemblyReference.cache
+E:\PB-C#\radianstodegrees\dancehall\obj\Debug\netcoreapp3.0\dancehall.AssemblyInfoInputs.cache
+E:\PB-C#\radianstodegrees\dancehall\obj\Debug\netcoreapp3.0\dancehall.AssemblyInfo.cs
+E:\PB-C#\radianstodegrees\dancehall\obj\Debug\netcoreapp3.0\dancehall.dll
+E:\PB-C#\radianstodegrees\dancehall\obj\Debug\netcoreapp3.0\dancehall.pdb

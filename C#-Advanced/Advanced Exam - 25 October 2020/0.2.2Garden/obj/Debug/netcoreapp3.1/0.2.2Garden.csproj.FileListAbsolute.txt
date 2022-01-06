@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.exe
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.deps.json
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.runtimeconfig.json
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.runtimeconfig.dev.json
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.dll
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\bin\Debug\netcoreapp3.1\0.2.2Garden.pdb
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.csprojAssemblyReference.cache
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.AssemblyInfo.cs
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.dll
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.pdb
+E:\C#-ADVANCED\Advanced Exam - 25 October 2020\0.2.2Garden\obj\Debug\netcoreapp3.1\0.2.2Garden.genruntimeconfig.cache

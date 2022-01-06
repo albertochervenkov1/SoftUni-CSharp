@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.exe
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.deps.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.runtimeconfig.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.runtimeconfig.dev.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.dll
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\bin\Debug\netcoreapp3.1\6.EqualityLogic.pdb
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.AssemblyInfo.cs
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.dll
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.pdb
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\6.EqualityLogic\obj\Debug\netcoreapp3.1\6.EqualityLogic.genruntimeconfig.cache

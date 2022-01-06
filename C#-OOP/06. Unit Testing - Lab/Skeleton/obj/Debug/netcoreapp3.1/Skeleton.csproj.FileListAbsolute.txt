@@ -1,0 +1,13 @@
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+E:\C#-OOP\06. Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

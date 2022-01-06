@@ -1,0 +1,10 @@
+E:\PB-C#\SCHOOL\nutsova\nutsova\bin\Debug\nutsova.exe.config
+E:\PB-C#\SCHOOL\nutsova\nutsova\bin\Debug\nutsova.exe
+E:\PB-C#\SCHOOL\nutsova\nutsova\bin\Debug\nutsova.pdb
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.Form1.resources
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.Properties.Resources.resources
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.csproj.GenerateResource.cache
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.exe
+E:\PB-C#\SCHOOL\nutsova\nutsova\obj\Debug\nutsova.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordguess", "passwordguess\passwordguess.csproj", "{52D06CA9-5BC0-447C-A491-0D07EE58DF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaFigures", "AreaFigures\AreaFigures.csproj", "{50C3E962-82F3-44C0-B496-BC00A0DDA66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{CFC276BB-660B-46BB-9DBA-77C826E37D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D06CA9-5BC0-447C-A491-0D07EE58DF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D06CA9-5BC0-447C-A491-0D07EE58DF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D06CA9-5BC0-447C-A491-0D07EE58DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D06CA9-5BC0-447C-A491-0D07EE58DF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C3E962-82F3-44C0-B496-BC00A0DDA66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C3E962-82F3-44C0-B496-BC00A0DDA66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C3E962-82F3-44C0-B496-BC00A0DDA66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C3E962-82F3-44C0-B496-BC00A0DDA66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC276BB-660B-46BB-9DBA-77C826E37D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC276BB-660B-46BB-9DBA-77C826E37D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC276BB-660B-46BB-9DBA-77C826E37D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC276BB-660B-46BB-9DBA-77C826E37D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAC140F-97CB-4FD3-AC31-6F8FB87DE371}
+	EndGlobalSection
+EndGlobal

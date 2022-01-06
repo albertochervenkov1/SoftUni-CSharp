@@ -1,0 +1,13 @@
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.exe
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.deps.json
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.runtimeconfig.json
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.runtimeconfig.dev.json
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.dll
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\bin\Debug\netcoreapp3.1\izpitGN.pdb
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.csprojAssemblyReference.cache
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.AssemblyInfoInputs.cache
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.AssemblyInfo.cs
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.csproj.CoreCompileInputs.cache
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.dll
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.pdb
+E:\PB-C#\SCHOOL\izpitGN\izpitGN\obj\Debug\netcoreapp3.1\izpitGN.genruntimeconfig.cache

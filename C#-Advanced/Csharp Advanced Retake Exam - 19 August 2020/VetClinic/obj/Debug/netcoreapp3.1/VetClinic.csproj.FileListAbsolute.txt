@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
+E:\C#-ADVANCED\Csharp Advanced Retake Exam - 19 August 2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache

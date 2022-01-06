@@ -1,0 +1,9 @@
+E:\PB-C#\lubotest\lubotest\bin\Debug\lubotest.exe.config
+E:\PB-C#\lubotest\lubotest\bin\Debug\lubotest.exe
+E:\PB-C#\lubotest\lubotest\bin\Debug\lubotest.pdb
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.csprojAssemblyReference.cache
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.Form1.resources
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.Properties.Resources.resources
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.csproj.GenerateResource.cache
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.exe
+E:\PB-C#\lubotest\lubotest\obj\Debug\lubotest.pdb

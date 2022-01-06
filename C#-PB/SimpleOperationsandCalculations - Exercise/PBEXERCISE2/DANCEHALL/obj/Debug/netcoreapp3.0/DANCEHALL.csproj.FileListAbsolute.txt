@@ -1,0 +1,11 @@
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.exe
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.deps.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.runtimeconfig.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.runtimeconfig.dev.json
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\bin\Debug\netcoreapp3.0\DANCEHALL.pdb
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\obj\Debug\netcoreapp3.0\DANCEHALL.csprojAssemblyReference.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\obj\Debug\netcoreapp3.0\DANCEHALL.AssemblyInfoInputs.cache
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\obj\Debug\netcoreapp3.0\DANCEHALL.AssemblyInfo.cs
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\obj\Debug\netcoreapp3.0\DANCEHALL.dll
+E:\PB-C#\SimpleOperationsandCalculations - Exercise\PBEXERCISE2\DANCEHALL\obj\Debug\netcoreapp3.0\DANCEHALL.pdb

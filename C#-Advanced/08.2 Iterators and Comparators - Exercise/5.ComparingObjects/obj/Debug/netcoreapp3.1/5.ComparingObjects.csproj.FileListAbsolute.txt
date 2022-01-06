@@ -1,0 +1,12 @@
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.exe
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.deps.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.runtimeconfig.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.runtimeconfig.dev.json
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.dll
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\bin\Debug\netcoreapp3.1\5.ComparingObjects.pdb
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.AssemblyInfo.cs
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.dll
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.pdb
+E:\C#-ADVANCED\08.2 Iterators and Comparators - Exercise\5.ComparingObjects\obj\Debug\netcoreapp3.1\5.ComparingObjects.genruntimeconfig.cache

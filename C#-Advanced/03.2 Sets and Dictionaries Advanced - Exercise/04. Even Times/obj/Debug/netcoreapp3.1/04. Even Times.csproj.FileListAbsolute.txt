@@ -1,0 +1,13 @@
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.exe
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.deps.json
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.json
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.runtimeconfig.dev.json
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.dll
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp3.1\04. Even Times.pdb
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csprojAssemblyReference.cache
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfoInputs.cache
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.AssemblyInfo.cs
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.csproj.CoreCompileInputs.cache
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.dll
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.pdb
+E:\C#-ADVANCED\03.2 Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp3.1\04. Even Times.genruntimeconfig.cache
